@@ -2,7 +2,8 @@
 - 👀 I’m interested in Full Stack Web Development and Data Analysis.
 - 🌱 I’m currently learning Bachelor of Technology in Computer Science Engineering.
 - 💞️ I’m looking to collaborate on  Full Stack Development Projects and Data Analysis Projects.
-- 📫 How to reach me E-mail: hemanthkatta2002@gmail.com Mobile Number: 9177222672.
+- 📫 How to reach me E-mail: hemanthkatta2002@gmail.com
+- 
 
 <!---
 Katta-Hemanth/Katta-Hemanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
